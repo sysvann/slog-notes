@@ -1,4 +1,4 @@
-# Slog App — Release Page
+# Slog App 
 
 Slog - A local-first Markdown note-taking app and knowledge base, with optional AI assistance.
 
