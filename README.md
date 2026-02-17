@@ -4,11 +4,10 @@ Slog - A local-first Markdown note-taking app and knowledge base, with optional 
 
 ## Key Features
 
-- **Local-first & Privacy-focused** – Your notes stay on your device.  
-- **Markdown & Rich Linking** – Easily create, connect, and organize ideas.  
-- **AI Assistance** – Optional smart suggestions, summaries, and content generation.  
-- **Search & Knowledge Graph** – Quickly find notes and visualize relationships.  
-- **Cross-platform Ready** – Access your notes wherever you go.  
+- **Markdown Editor** – Smooth and seamless editing experience.  
+- **Local-first** – Your notes are stored locally on your device.  
+- **Bidirectional Links & Knowledge Graph** – Easily connect notes and visualize relationships.  
+- **AI Writing** – Optional smart suggestions and content generation.
 
 ## Get Started
 
