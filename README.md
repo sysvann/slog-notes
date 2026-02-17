@@ -1,6 +1,6 @@
 # Slog App — Release Page
 
-Slog is a **local-first Markdown note-taking app** and **knowledge base**, designed to help you capture ideas, link notes, and think clearly. Optional **AI-powered assistance** makes your workflow smarter without compromising privacy.  
+Slog - A local-first Markdown note-taking app and knowledge base, with optional AI assistance.
 
 ## Key Features
 
