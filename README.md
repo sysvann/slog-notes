@@ -1,6 +1,6 @@
-# Slog App 
+# Slog Notes 
 
-Slog - A local-first Markdown note-taking app and knowledge base, with optional AI assistance.
+Slog Notes - A local-first Markdown note-taking app and knowledge base, with optional AI assistance.
 
 ## Key Features
 - **Markdown Editor** – Smooth and seamless editing experience.  
